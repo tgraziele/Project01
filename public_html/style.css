@@ -1,0 +1,43 @@
+body{
+	font-family: "nunito";
+	background: #f5d9d5;
+}
+#navbarSupportedContent .nav-link{
+	text-align: right;
+	color: red;
+}
+#mainHeader .navbar-brand{
+	font-size: 1rem;
+	font-weight: 100;
+	/*background: #F9F0FA*/
+}
+
+#mainHeader .aright{
+	text-align: right;
+	color: red;
+}
+
+#body h1{
+	font-size: 5rem;
+
+}
+.jumbotron
+{
+	background: #f5d9d5;
+	text-align: center;
+}
+#a{
+	color: red;
+}
+#p{
+	color: green;
+}
+#u{
+	color: blue;
+}
+#i{
+	color: pink;
+}
+#r{
+	color: yellow;
+}

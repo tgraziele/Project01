@@ -1,0 +1,71 @@
+body{
+	background: black;
+}
+.contact{
+	border-top: solid white ;
+	border-left: solid white;
+	border-bottom: solid white:
+	border-right: none;
+	width: 30%;
+	float: left;
+	height: 539px;
+	/* padding: 0; */
+	/* margin: 0; */
+	background-color: #F033FF;
+}
+.header{
+	border-top: solid white;
+	border-right: solid white;
+	margin-left: 30%;
+	height: 70px;
+	/* float: none; */
+	background-color: #F033FF;
+	/* padding: 0; */
+	/* margin: 0; */
+	font-family: Limelight;
+	font-size: 55px
+}
+.key{
+	border-right: solid white;
+	margin-left: 20%;
+	height: 30px;
+	float: center;
+	background-color: #F033FF;
+	/* padding: 0; */
+	/* margin: 0; */
+	font-family: Lora;
+	font-size: 14px;
+	text-align: center;
+}
+
+.companies{
+	/* border: solid white red; */
+	width: 35%;
+	float: left;
+	height: 439px;
+	/* padding: 0; */
+	/* margin: 0; */
+	background-color: #F033FF;
+}
+.image{
+
+	margin-left: 65%;
+	height: 439px;
+	background-color: #F033FF;
+	border-right: solid white;
+}
+.signature{
+	text-align: right;
+	/* border: solid white red; */
+	height: 15px;
+	font-family: Reenie Beanie;
+	border-top: solid white;
+	color: white;
+}
+
+.icon{
+	width: 20px;
+}
+.logo{
+	width: 350px;
+}
